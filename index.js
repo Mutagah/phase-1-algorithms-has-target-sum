@@ -10,11 +10,8 @@ return false
 
 /* 
   Write the Big O time complexity of your function here
-  iterate to the first value in the array
-  iterate to the remaining second value in the array
-  check if the sum equals the targeted value
-  return true if sum of the iterated elements 
-  at a given instance equals the target
+  O(n^2)
+  
 */
 
 /* 
